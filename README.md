@@ -10,3 +10,8 @@ Para utilizarlo en el examen
 //NUEVO COMMIT//
 
 1) Cambio el readme y hago el push
+
+//AÑADO PROGRAMA//
+
+1)Añado el codigo fuente al directorio
+2)hago el proceso de add, commit y push
